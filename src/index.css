@@ -10,3 +10,7 @@
 .no-border{
     border-style: none;
 }
+
+.bg-image{
+    background-image:url('header_img.png') ;
+}
